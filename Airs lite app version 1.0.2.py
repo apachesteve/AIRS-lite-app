@@ -7,7 +7,7 @@ import os
 
 station_ids = {
     "East Foothills": "MILL1",
-    "Lower Cajon Pass": DVOC1",
+    "Lower Cajon Pass": "DVOC1",
     "Yucaipa Area": "OGVC1"
 }
 
